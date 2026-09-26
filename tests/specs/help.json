@@ -8,7 +8,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "ℹ️ Tap /start to open the menu, then pick what you want from the buttons.\n\nEverything in this bot is reachable by tapping — you don't need to remember any commands."
+              "text": "ℹ️ PokeTrade helps collectors buy and sell Pokémon cards.\n\nShare clear photos, agree on payment outside the bot, and never send payment details here. Your messages stay in the bot while you talk.\n\nTap /start to browse, list a card, or manage your listings."
             }
           }
         ]

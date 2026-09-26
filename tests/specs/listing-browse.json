@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Open paginated marketplace feed with thumbnail previews and basic filters"
+              "text": "No listings yet — tap 🃏 Create listing to add one."
             }
           }
         ],
