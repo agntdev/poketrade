@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Begin guided create-listing flow (photos → metadata → confirm)"
+              "text": "Send 1–6 card photos, one at a time. When you’re done, tap Finish photos."
             }
           }
         ],

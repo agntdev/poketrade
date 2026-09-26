@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Show the user's active and archived listings, allow edit/remove/mark sold"
+            "text": "You haven’t listed anything yet — tap 🃏 Create listing to get started."
             }
           }
         ],

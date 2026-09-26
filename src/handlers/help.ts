@@ -9,8 +9,9 @@ import { inlineButton, inlineKeyboard } from "../toolkit/index.js";
 const composer = new Composer<Ctx>();
 
 const HELP =
-  "ℹ️ Tap /start to open the menu, then pick what you want from the buttons.\n\n" +
-  "Everything in this bot is reachable by tapping — you don't need to remember any commands.";
+  "ℹ️ PokeTrade helps collectors buy and sell Pokémon cards.\n\n" +
+  "Share clear photos, agree on payment outside the bot, and never send payment details here. Your messages stay in the bot while you talk.\n\n" +
+  "Tap /start to browse, list a card, or manage your listings.";
 
 const backToMenu = inlineKeyboard([[inlineButton("⬅️ Back to menu", "menu:main")]]);
 
